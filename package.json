@@ -8,5 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashop250/my_web_app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashop250/my_web_app/issues"
+  },
+  "homepage": "https://github.com/yashop250/my_web_app#readme"
 }
